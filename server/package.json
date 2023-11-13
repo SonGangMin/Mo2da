@@ -34,7 +34,8 @@
     "sequelize-cli": "^6.6.1",
     "sequelize-typescript": "^2.1.5",
     "sequelize-typescript-auto": "^0.0.3",
-    "typescript": "^5.2.2"
+    "typescript": "^5.2.2",
+    "nodemon": "^3.0.1"
   },
   "devDependencies": {
     "@types/multer": "^1.4.8",

@@ -37,9 +37,10 @@ interface AuthTemplateProps {
 const AuthTemplate: React.FC<AuthTemplateProps> = ({ children }) => {
   return (
     <AuthTemplateBlock>
+      관리자 ID:admin / PW:admin
       <WhiteBox>
         <div className="logo-area">
-          <Link to="/">HOLA!</Link>
+          <Link to="/">Mo2Da</Link>
         </div>
         {children}
       </WhiteBox>
